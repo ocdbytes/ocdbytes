@@ -13,7 +13,7 @@
 
 [Blockchain 📦🔗] :
 [Solidity 🔹] [Cairo △] [DeFi 💰] [ethersjs 💠]
-[LayerZero ⛓️] [L2->L1 comms 🔗]
+[LayerZero ⛓️] [L2<->L1 comms 🔗]
 
 [Web 🌐] :
 [ExpressJS 🚅] [NextJS ⏭️] [MongoDB 🟢] [SQL & NoSQL databases 🟠]
