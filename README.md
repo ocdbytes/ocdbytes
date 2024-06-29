@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Rust 🦀 & ZK (Zero Knowledge) Arithmetics
 - 💬 Ask me about Python, TypeScript, C & C++, Solidity, DeFi
-- 📫 How to reach me: arunjngra89@gmail.com
+- 📫 How to reach me: arunjangra1001@gmail.com
 - ⚡ Fun fact: I ♥️ Low Level Programming
 
 [Blockchain 📦🔗] :
