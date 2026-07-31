@@ -1,4 +1,4 @@
-# 色即是空 空即是色
+<h3 align="center">色即是空　空即是色</h3>
 
 ```sh
      ⣠⢔⣽⣿⣿
@@ -20,7 +20,7 @@
 
 ```sh
 $ whoami
-> arun — systems & backend engineer. mostly rust, mostly low-level.
+> arun — systems & backend engineer. mostly rust.
 
 $ cat ~/.now
 → learning   : DL (and kind of LLMs)
